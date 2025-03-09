@@ -34,7 +34,7 @@ Replace your-supabase-url and your-anon-key with the actual values from your Sup
 
 Clone the repository:
 ```sh
-git clone https://github.com/yourusername/wavelength.git
+git clone https://github.com/Avinash8055/wavelength.git
 ```
 ```sh
 cd wavelength
