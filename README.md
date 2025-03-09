@@ -1,6 +1,6 @@
 🎵 ##Wavelength
 
-Wavelength is a Spotify-like music streaming platform built with TypeScript and Supabase, designed to provide a seamless listening experience.
+#Wavelength is a Spotify-like music streaming platform built with TypeScript and Supabase, designed to provide a seamless listening experience.
 
 🚀# Features
 
