@@ -12,6 +12,7 @@ Wavelength is a Spotify-like music streaming platform built with TypeScript and 
 
 🌐 Responsive and modern UI
 
+
 ## 🛠  **Tech Stack**
 Frontend: TypeScript, JavaScript, CSS, HTML
 
@@ -19,7 +20,8 @@ Backend: Supabase (Powered by PostgreSQL), PLpgSQL
 
 Database: PostgreSQL
 
-📦 Installation & Setup
+## 📦 **Installation & Setup**
+
 
 Clone the repository:
 ```sh
