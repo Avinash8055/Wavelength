@@ -1,8 +1,6 @@
 # 🎵 **Wavelength**
 
 
-Replace your-supabase-url and your-anon-key with the actual values from your Supabase dashboard.
-
 ## 📦 **Installation & Setup**
 
 
