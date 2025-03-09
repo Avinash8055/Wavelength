@@ -6,10 +6,10 @@
 
 Clone the repository:
 ```sh
-git clone https://github.com/Avinash8055/wavelength.git
+git clone https://github.com/Avinash8055/Wavelength.git
 ```
 ```sh
-cd wavelength
+cd Wavelength
 ```
 
 ## ⚙️ **Environment Setup**
